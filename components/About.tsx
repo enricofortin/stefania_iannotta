@@ -23,13 +23,13 @@ const About: React.FC = () => {
           </div>
           <div className="grid grid-cols-2 gap-4">
             <div className="aspect-square bg-gray-100 rounded-2xl overflow-hidden">
-              <img src="https://images.unsplash.com/photo-1580894732444-8ecded7900cd?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Persona che lavora in ufficio" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700" />
+              <img src="/foto_stefania.JPG" alt="Persona che lavora in ufficio" className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700" />
             </div>
             <div className="aspect-square bg-sage rounded-2xl flex items-center justify-center p-8 text-white">
               <p className="font-heading text-3xl text-center leading-tight">ESPERIENZA PLURIENNALE NEGLI ENTI LOCALI</p>
             </div>
             <div className="col-span-2 aspect-[16/9] bg-gray-100 rounded-2xl overflow-hidden">
-              <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80" alt="Paesaggio natura" className="w-full h-full object-cover opacity-80" />
+              <img src="/foto2.JPG" alt="Paesaggio natura" className="w-full h-full object-cover opacity-80" />
             </div>
           </div>
         </div>
