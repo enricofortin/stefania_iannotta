@@ -32,7 +32,7 @@ const Hero: React.FC = () => {
         <div className="order-1 lg:order-2 relative">
           <div className="aspect-[4/5] rounded-2xl overflow-hidden shadow-2xl rotate-2 hover:rotate-0 transition-transform duration-500">
             <img 
-              src="/fotosito.jpg" 
+              src="/fotO1.JPG" 
               alt="Professional architecture and structure" 
               className="w-full h-full object-cover"
             />
