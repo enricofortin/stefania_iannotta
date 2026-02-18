@@ -7,6 +7,7 @@ import WhatIDo from './components/WhatIDo';
 import Services from './components/Services';
 import Values from './components/Values';
 import Footer from './components/Footer';
+import CookieConsent from './components/CookieConsent';
 
 const App: React.FC = () => {
   return (
@@ -20,6 +21,7 @@ const App: React.FC = () => {
         <Values />
       </main>
       <Footer />
+      <CookieConsent />
     </div>
   );
 };
