@@ -11,10 +11,11 @@ const About: React.FC = () => {
             <h2 className="font-heading text-5xl mb-8">COMPETENZA AL SERVIZIO DELLE AMMINISTRAZIONI</h2>
             <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
               <p>
+                Sono lauerata in Giurisprudenza, ho un master in Diritto Tributario e sono un Project Manager certificato.
                 Sono una consulente dedicata a supporto di imprese ed amministrazioni pubbliche, specializzata nel settore delle <strong>public utilities</strong>, al quale mi rivolgo in modo quasi esclusivo.
               </p>
               <p>
-                La mia esperienza si è consolidata nella direzione di aziende e nel supporto strategico alle amministrazioni comunali, con un focus particolare sulla gestione dei servizi pubblici e dei processi legati al rapporto con l’utenza.
+                La mia esperienza si è consolidata nel supporto strategico alle amministrazioni comunali, con un focus particolare sulla gestione dei servizi pubblici e dei processi legati al rapporto con l’utenza.
               </p>
               <p>
                 Il mio fattore distintivo risiede nella capacità di ascolto e nella comprensione profonda delle specifiche esigenze territoriali, anticipando le sfide normative e operative dei miei clienti.
